@@ -1,58 +1,81 @@
-Welcome to my digital garden! I’m Lindokuhle, a passionate **Software Developer** who loves turning ideas into code. Whether it's building scalable web applications, automating repetitive tasks, or diving into the world of data, I thrive on solving problems and creating impactful solutions.
+# 👋 Hey there, I'm Lindokuhle!
+
+Welcome to my digital playground! I'm a dedicated **Software Developer in training** at [WeThinkCode_](https://www.wethinkcode.co.za/), where I'm building the skills to solve real-world problems with code.
+
+Whether it’s crafting powerful backend systems or experimenting with sleek frontend designs, I love turning ideas into functional, efficient, and elegant solutions.
 
 ---
 
 ## 🚀 About Me
 
-- **Who am I?**  
-  I’m a curious developer with a knack for Web Development, Automation, and all things tech. My journey in programming started with curiosity and has grown into a passion for crafting efficient, user-friendly software.
-
-- **What am I up to?**  
-  Right now, I’m deep into improving my full-stack development skills while exploring the exciting realms of **Machine Learning**, **Data Science**, and **Cloud Computing**. There’s so much to learn, and every day feels like an adventure!
-
-- **What gets me excited?**  
-  I love discussing **Python**, **JavaScript**, and **Docker**—these are some of my favorite tools for building cool stuff. If you’re into any of these, let’s chat!
-
-- **Fun Fact:**  
-  Did you know I once automated my daily tasks using Python scripts and saved over 10 hours a week? Yep, that’s how much I love efficiency! 😄
-
+- 🎓 **Student Developer** | WeThinkCode_
+- 🧠 Currently deepening my skills in **backend development** while building out some cool **frontend projects**
+- 🧰 Languages: Python, Java, JavaScript, HTML, CSS
+- 🛠️ Tech interests: Clean code, problem-solving, APIs, and automation
+- 🌿 Fun Fact: I’m super outdoorsy! When I’m not coding, I’m either running or taking long walks in nature 🏃‍♂️🌳
 
 ---
 
-### Tools & Frameworks
+## 🧠 What I'm Learning
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+- Backend frameworks like **Spring Boot** & **Django**
+- Frontend with **React.js** & modern UI design
+- Building real-world apps with REST APIs and SQL databases
+- Git & GitHub for version control and collaboration
 
 ---
 
+## 🛠️ Tech Stack
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lee-alt-add&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-alt-add&layout=compact)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat\&logo=springboot)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat\&logo=django)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)
+![NetBeans](https://img.shields.io/badge/-NetBeans%20IDE-05122A?style=flat\&logo=apache-netbeans-ide\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat\&logo=intellij-idea\&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lee-alt-add&show_icons=true&theme=tokyonight" alt="Lindokuhle's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-alt-add&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
-Showcasing some of my GitHub achievements below! These trophies reflect my contributions, streaks, and more.
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lee-alt-add&theme=radical&no-frame=false&no-bg=true&margin-w=10)
-
----
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/lee-alt-add](https://www.linkedin.com/in/lindokuhlenhlatshwayo))
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lee-alt-add&theme=onedark&no-frame=true&column=4&margin-w=15" />
+</p>
 
 ---
 
-## Let's Collaborate!
-Feel free to reach out if you'd like to collaborate on a project, discuss technology, or just chat about coding. I'm always open to learning and sharing knowledge!
+## 📂 Featured Projects
+
+> 🚧 Coming soon: Banking System, Community Enrichment App and more!
+
+You can find all my work under the **Repositories** tab above.
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lindokuhlenhlatshwayo)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/lee-alt-add)
+
+---
+
+## 💬 Let's Collaborate!
+
+I'm always open to learning, building, and collaborating. If you're into web dev, automation, or anything code-related — let's connect and create something awesome!
+
+---
