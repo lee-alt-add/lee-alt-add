@@ -51,6 +51,13 @@ Whether it’s crafting powerful backend systems or experimenting with sleek fro
 
 ---
 
+## 📈 My GitHub Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lee-alt-add&theme=tokyo-night)](https://github.com/lee-alt-add)
+
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
